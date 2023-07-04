@@ -1,7 +1,9 @@
 {
     "python.testing.pytestArgs": [
         "Sort",
-        "LinkedList"
+        "LinkedList",
+        "amazon",
+        "Arrays"
     ],
     "python.testing.unittestEnabled": false,
     "python.testing.pytestEnabled": true,
